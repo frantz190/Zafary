@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    position: relative;
+}
+
+main{
+    display: grid;
+    background: #F2FCFF;
+    
+}
+
+img{
+  width: 93px; 
+  height: 93px; 
+}
+.contenedor-principal{
+    width: 490px;
+    height: 790px;
+    margin: 0 auto;
+    background: #F2FCFF;
+    border-radius: 25px;
+}
+
+.caja-artistas{
+    width: 440px;
+    height: 705px;
+    position: relative;
+    display:grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 0% 0% 0% 7%;
+}
+
+.cabecera-principal{
+    text-align: center;
+    width: 490px;
+}
+
+.caja-artista{
+    width: 140px;
+    height: 140px;
+    display: grid;
+    justify-content: center;
+    background: #5AD2AE;
+    border: 1px solid #469F85;
+    border-radius:10px ;
+}
+
+.caja-artista{
+    width: 130px;
+    height: 122px;
+}
+
+.caja-artista img{
+    border-radius: 50%;
+    padding-top: 3%;
+}
+
+.caja-artista p{
+    color: white; 
+    text-align: center;  
+    line-height: 0px;
+}
+

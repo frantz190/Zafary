@@ -1,0 +1,99 @@
+#contenedor{
+
+    background-color:#FFFFFF;
+    width: 85%;
+    height: 1300px;
+    margin: 0;
+    position: relative;
+    padding: 0% 0% 0% 30%;
+}
+
+#derecha h2 {
+
+    height: 25px;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 18%;
+    font-family: Helvetica;
+    font-size: 45px; 
+    color: black;
+
+}
+
+.titulo {    
+    padding-top: 0%;
+    padding-bottom: 6%;
+    padding-right: 18%;
+    padding-left: 2%;
+    height: 25px;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 45px; 
+    color: black;
+    
+}   
+
+.imagen {
+
+    padding-top: 50px;
+    padding-left: 200px;
+    
+}
+
+.imagen1 {
+    padding: 0% 50% 6% 0%;
+}
+
+.imagen2 {
+    padding: 0% 50% 6% 5%;
+}
+
+.imagen3 {
+    padding: 0% 50% 6% 0%;
+    
+}
+
+#cabecera{
+
+    height:8%;
+    width: 73%;
+    text-align: center;
+    background-color: rgb(36, 35, 35);
+}
+
+#cabecera h1{
+
+    text-align: center;
+    color: white;
+    padding: 30px 0px 0px 0px;
+}
+
+#contenido{
+
+    height: 55%;
+    width:84%;
+}
+
+#izquierda{
+
+    height:114%;
+    float: left;
+    width: 15.90%;
+    text-align: center;
+    background: #5AD2AE;
+}
+
+#izquierda a{
+
+    float: right;
+    color: black;
+    padding: 6% 0% 2% 2%;
+    font-size: 20px;
+}
+
+#derecha{
+
+    height:109%;
+    float:right;
+    width:84%;
+}
